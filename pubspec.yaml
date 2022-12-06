@@ -1,4 +1,4 @@
-name: tinder
+name: screen
 description: A new Flutter project.
 
 # The following line prevents the package from being accidentally published to
@@ -35,7 +35,9 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   swipable_stack:
-  http: 
+  http:
+  flutter_bloc:
+  equatable:
 
 dev_dependencies:
   flutter_test:

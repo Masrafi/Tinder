@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:swipable_stack/swipable_stack.dart';
-import 'colors.dart';
+
+import '../utils/colors.dart';
 
 class BottomButtonsRow extends StatelessWidget {
   const BottomButtonsRow({
